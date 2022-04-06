@@ -1,2 +1,2 @@
 # Slider-Image-Dom-Event-
-sliderimage.netlify.app
+https://sliderimage.netlify.app
